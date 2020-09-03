@@ -3534,7 +3534,7 @@ h3 {
   top: 0;
   height: 100%;
   background-image: url(../asset/background-2.png);
-  background-size: contain;
+  background-size: cover;
   background-position: center center;
   -webkit-border-radius: 20px 0 0 20px;
   -moz-border-radius: 20px 0 0 20px;
