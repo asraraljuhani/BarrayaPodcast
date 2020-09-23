@@ -1158,6 +1158,7 @@ h3 {
 .slider_bg_1 {
   /* background-image: url(../img/banner/banner.png); */
   background-image: url(../asset/background-1.jpg);
+  /* background-image: url(../asset/Podcast.gif); */
 }
 
 /* line 4, ../../Arafath/CL/December/233. Startup/HTML/scss/_slider.scss */
@@ -7119,3 +7120,40 @@ path {
 }
 
 /* font-family: 'Kacst Title'; */
+.content-card{
+  display: block;
+  margin-top: 12%;
+  margin-right: 5%;
+  margin-bottom: 10%;
+  margin-left: 5%;
+  text-align: -webkit-center;
+}
+.content-card button{
+  font-size: 16px;
+  font-weight: 300;
+}
+.card-title{
+  text-align: center;
+  padding-top: 5%;
+}
+.card-title h2 span{
+  color: #4095b6;
+  font-size: 40px;
+}
+.yellow-divider{
+  position: absolute;
+  content: "";
+  height: 10px;
+  width: 50%;
+  background: #f4de3c;
+  bottom: 0;
+  left: 100px;
+  top: 80px;
+}
+.content-card p{
+font-size: 20px;
+margin-bottom: 5%;
+}
+.content-card input{
+  text-align: center;
+}
